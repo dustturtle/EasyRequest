@@ -35,6 +35,7 @@
     self = [super init];
     if (self)
     {
+        [EasyLogger logSetup];
         self.clients = [NSMutableDictionary dictionary];
     }
     
