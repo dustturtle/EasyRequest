@@ -195,6 +195,7 @@
 				TargetAttributes = {
 					8EC142671CF46F2300D60A43 = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = 9R7CKNK3WC;
 					};
 				};
 			};
@@ -405,6 +406,7 @@
 			baseConfigurationReference = 61D38F16080516F28166E512 /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9R7CKNK3WC;
 				INFOPLIST_FILE = EasyRequest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = test.EasyRequest;
@@ -417,6 +419,7 @@
 			baseConfigurationReference = 166355C165C42C610BB16F47 /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9R7CKNK3WC;
 				INFOPLIST_FILE = EasyRequest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = test.EasyRequest;
